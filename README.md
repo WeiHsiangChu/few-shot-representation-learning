@@ -14,6 +14,20 @@ Self-supervised pretraining on the **102-Category Flower** dataset, followed by 
 
 ---
 
+## 💡 Key Topics
+
+- Self-Supervised Learning
+- Few-Shot Learning
+- Representation Learning
+- Computer Vision
+- Deep Learning
+- PyTorch
+- ResNet-18
+- SimCLR
+- Masked Autoencoders (MAE)
+- Linear Probe
+- Multi-Layer Perceptron (MLP)
+
 ## 🔧 Methods
 
 ### SimCLR (contrastive learning)
